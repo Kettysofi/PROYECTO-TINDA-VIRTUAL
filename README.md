@@ -1,0 +1,1 @@
+Este proyecto es un sistema interactivo de tienda virtual sencillo, que ofrece servicios de asistencia técnica rural en distintas áreas. Los usuarios pueden consultar disponibilidad de servicios y solicitar asistencia de profesionales en diversas especialidades.
